@@ -1,5 +1,5 @@
 # react-simple-api
-a simple implementatio react api from https://fakestoreapi.com/docs on react js framework
+a simple implementation react api from https://fakestoreapi.com/docs on react js framework
 
 # Getting Started with Create React App
 
