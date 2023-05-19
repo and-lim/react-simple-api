@@ -38,30 +38,30 @@ function Home() {
         <div class="line p-2"></div>
 
 
-         <section>
-    <div class="container my-5">
-        <div class="row" style={{rowGap:10}}>
-            <h1 class="text-start title mb-2">Category</h1>
-            <div class="col-lg-3">
-              <a href="/item" className="text-decoration-none">
-                <div class="card category-card bg-snack" >
-                    <div class="card-body">
-                      <h5 class="card-title text-start">Snack</h5>
+        <section>
+            <div class="container my-5">
+                <div class="row" style={{rowGap:10}}>
+                    <h1 class="text-start title mb-2">Category</h1>
+                    <div class="col-lg-3">
+                      <a href="/item" className="text-decoration-none">
+                        <div class="card category-card bg-snack" >
+                            <div class="card-body">
+                              <h5 class="card-title text-start">Snack</h5>
+                            </div>
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-lg-3">
+                      <a href="/item" className="text-decoration-none">
+                        <div class="card category-card bg-electronic" >
+                            <div class="card-body">
+                              <h5 class="card-title text-start">Laptop</h5>
+                            </div>
+                        </div>
+                      </a>
                     </div>
                 </div>
-              </a>
             </div>
-            <div class="col-lg-3">
-              <a href="/item" className="text-decoration-none">
-                <div class="card category-card bg-electronic" >
-                    <div class="card-body">
-                      <h5 class="card-title text-start">Laptop</h5>
-                    </div>
-                </div>
-              </a>
-            </div>
-        </div>
-    </div>
         </section>
 
         <Footer/>
